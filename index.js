@@ -21,7 +21,7 @@ var males  =  [{name: 'John', gender: 'M'},
                  {name: 'Jim', gender: 'M'},
                  {name: 'Brian', gender: 'M'},
                  {name: 'Jon', gender: 'M'},
-                 {name: 'Kelly', gender: 'M'},];
+                 {name: 'Kelly', gender: 'M'}];
 
                  // pop more than 8 to waitlists
                  var malesWaiting = [];
