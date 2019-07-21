@@ -1,5 +1,5 @@
 Purpose: Build mixed doubles randomly paired rosters for as many as
-four courts from lists of registered players.
+four courts from lists of registered players.   Players who registered last and are left unpaird are assigned to waitlists.
 
 index.js is a command-line interface utility and requires node.js to run
 
